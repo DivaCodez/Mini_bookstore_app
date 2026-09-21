@@ -1,7 +1,8 @@
 import requests
 import streamlit as st
+import os
 
-URL = "http://localhost:8000"
+BASE_URL = os.getenv("API_URL", "http://localhost:8000")
 
 st.title("📚 Mini Bookstore")
 
