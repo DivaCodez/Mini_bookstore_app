@@ -1,4 +1,8 @@
 ## 🏫 Academic Context
+![FastAPI](https://shields.io)
+![Pytest](https://shields.io)
+![Postman](https://shields.io)
+![Streamlit](https://shields.io)
 
 **Student Status:** Computer Science (L3 Student)  
 **Context:** Hands-on training project following a Coursera API Development course  
