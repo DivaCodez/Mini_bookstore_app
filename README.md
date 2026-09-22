@@ -44,7 +44,7 @@ This repository serves as a practical implementation project for web services ar
 ### 5. API Testing & Documentation
 
 * **OpenAPI & Swagger UI:** Utilizing auto-generated docs at `/docs` for real-time endpoint testing and schema inspection.
-* **Automated Postman Workflows:** Executing chained end-to-end integration tests (*Create* $\rightarrow$ *Retrieve* $\rightarrow$ *Update* $\rightarrow$ *Delete*) using Postman script assertions.
+    * **Automated Postman Workflows:** Executing chained end-to-end integration tests (*Create* --> *Retrieve* --> *Update* --> *Delete*) using Postman script assertions.
 
 ## 🛠️ Technical Summary
 
